@@ -7,3 +7,4 @@ Here are some ideas to get you started:
 - 💬 Ask me about Web Development
 - 📫 How to reach me: https://harshsharma.codes/
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=harshsharma2210)
