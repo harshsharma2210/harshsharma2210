@@ -46,18 +46,21 @@
 
 ## :trophy: My Github Stats:
 
-<!--
-![GitHub stats](https://readme-stats-cfgj2cxdy.vercel.app/api?username=CharalambosIoannou&count_private=true&show_icons=true&theme=tokyonight)
-![Top Langs](https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=CharalambosIoannou&hide=php&theme=tokyonight)
--->
-<div>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api?username=harshsharma2210&count_private=true&show_icons=true&theme=tokyonight">
-  <img  align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api?username=harshsharma2210&count_private=true&show_icons=true&theme=tokyonight" />
-</a>
-<a href="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=harshsharma2210&hide=php&theme=tokyonight">
-  <img align="left" src="https://readme-stats-cfgj2cxdy.vercel.app/api/top-langs/?username=harshsharma2210&hide=php&theme=tokyonight" />
-</a>
-</div>
+
+### GitHub Stats
+![Hariket Sheth Github Stats](https://github-readme-stats.vercel.app/api?username=HariketSheth&custom_title=Hariket%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
+
+### GitHub Contributions
+![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=HariketSheth)
+
+[![Hariket Sheth GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=hariketsheth&theme=xcode)](https://github.com/hariketsheth)
+
+### Most Used Langauges
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hariketsheth&layout=compact&theme=radical&langs_count=8)
+ 
+<br>
+</p>
+
 
 
 
