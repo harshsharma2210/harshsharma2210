@@ -17,7 +17,7 @@
 -->
 
 <p align="center"> 
-<a href="https://harshsharma.codes/" target="_blank">
+<a href="https://harshsharma.codes/" target="_blank" rel="noopener noreferrer">
 <img align="left" alt="Harsh Sharma | Portfolio" height="40" style="vertical-align:top; margin:4px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" /></a>
  <a href="https://github.com/harshsharma2210" target="_blank" rel="noopener noreferrer"> <img src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"> </a>
  <a href="https://www.linkedin.com/in/harshsharma2210" target="_blank" rel="noopener noreferrer"> <img src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" alt="Python" height="40" style="vertical-align:top; margin:4px"></a>
