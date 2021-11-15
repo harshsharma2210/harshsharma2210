@@ -43,10 +43,10 @@
 
 
 ### GitHub Stats
-![Hariket Sheth Github Stats](https://github-readme-stats.vercel.app/api?username=harshsharma2210&custom_title=Hariket%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
+![Harsh Sharma Github Stats](https://github-readme-stats.vercel.app/api?username=harshsharma2210&custom_title=Harsh%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
 
 ### GitHub Contributions
-![Hariket Sheth GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=harshsharma2210)
+![Harsh_Sharma GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=harshsharma2210)
 
 [![Harsh Sharma GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshsharma2210&theme=xcode)](https://github.com/harshsharma2210)
 
