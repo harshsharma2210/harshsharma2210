@@ -10,8 +10,8 @@
 
 # Connect with me<img src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Handshake.gif" height="32px">
 
-  <a href="https://harshsharma.codes/">
-    <img align="left" alt="Satyam Goyal | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
+  <a href="https://harshsharma.xyz/">
+    <img align="left" alt="Harsh Sharma | Portfolio" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/www.svg" />
   <a href="https://www.linkedin.com/in/harshsharma2210">
     <img align="left" alt="Harsh Sharma | Linkedin" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Linkedin.svg" />
   </a> &nbsp;&nbsp; 
@@ -21,7 +21,7 @@
   <a href="mailto:iamhs2000@gmail.com">
     <img align="left" alt="Harsh Sharma | Gmail" width="26px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/Gmail.svg" />
   </a> &nbsp;&nbsp;
-  <a href="https://harshsharma.codes/img/Harsh%20Sharma.pdf">
+  <a href="https://harshsharma.xyz/img/Harsh%20Sharma.pdf">
     <img align="left" alt="Harsh Sharma | Gmail" width="24px" src="https://github.com/SatYu26/SatYu26/blob/master/Assets/resume.png" />
   </a> &nbsp;&nbsp;
 <br><br>
