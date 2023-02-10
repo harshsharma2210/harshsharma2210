@@ -48,8 +48,6 @@
 ### GitHub Contributions
 ![Harsh_Sharma GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=harshsharma2210)
 
-[![Harsh Sharma GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=harshsharma2210&theme=xcode)](https://github.com/harshsharma2210)
-
 ### Most Used Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma2210&layout=compact&theme=radical&langs_count=8)
  
