@@ -2,7 +2,7 @@
 
 ## 🎓 I'm a B.E Student at Thapar Institute of Engineering and Technology.
 
-- 🔭 I’m currently working as a Freelancer.
+- 🔭 I’m currently working as a Software Engineer at Anarock.
 - 🌱 I’m currently learning MERN STACK.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about Web Development
