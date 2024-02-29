@@ -56,8 +56,8 @@
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=README.md)
 
-<!-- ![visitors](https://badges.pufler.dev/visits/SatYu26/SatYu26)
-![Visitor Count](https://profile-counter.glitch.me/SatYu26/count.svg) -->
+<!-- ![visitors](https://badges.pufler.dev/visits/harshsharma2210/harshsharma2210)
+![Visitor Count](https://profile-counter.glitch.me/harshsharma2210/count.svg) -->
 
 <!--  Acknowledgement: https://github.com/anuraghazra/github-readme-stats -->
 
