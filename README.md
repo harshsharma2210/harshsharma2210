@@ -1,8 +1,8 @@
 ## Hi there 👋 I'm Harsh!
 
-## 🎓 I'm a B.E Student at Thapar Institute of Engineering and Technology.
+## 🎓 I'm a Software Engineer at Anarock.
 
-- 🔭 I’m currently working as a Software Engineer at Anarock.
+- 🔭 I did my UG from B.E Student at Thapar Institute of Engineering and Technology
 - 🌱 I’m currently learning MERN STACK.
 - 👯 I’m looking to collaborate with anyone on any project.
 - 💬 Ask me about Web Development
