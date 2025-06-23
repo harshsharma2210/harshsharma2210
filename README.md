@@ -45,9 +45,6 @@
 ### GitHub Stats
 ![Harsh Sharma Github Stats](https://github-readme-stats.vercel.app/api?username=harshsharma2210&custom_title=Harsh%27s%20GitHub%20Stats%20&show_icons=true&theme=ayu-mirage)
 
-### GitHub Contributions
-![Harsh_Sharma GitHub Contributions](https://github-readme-streak-stats.herokuapp.com/?&theme=dracula&user=harshsharma2210)
-
 ### Most Used Langauges
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=harshsharma2210&layout=compact&theme=radical&langs_count=8)
  
